@@ -1,8 +1,67 @@
-{
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {}
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embedded Tableau Dashboard</title>
+    <link rel="stylesheet" type="text/css" href="css/stylescratch.css">
+
+</head>
+<body>
+
+      <h2>Global CO₂ Emissions Dashboard</h2>
+
+  <iframe
+    src="https://public.tableau.com/views/WorldIndicators/GDPpercapita?:showVizHome=no&:embed=true"
+    width="100%"
+    height="800"
+    style="border: none;"
+    allowfullscreen>
+  </iframe>
+
+
+    <h1 id="Top"></h1>
+    <h1>I LOVE TO SEW </h1>
+    <p>Here is the start to my future creative portfolio!</p>
+    <br><br><br><Br><Br><br><br>
+
+
+    <p>Watch this video to learn from a fellow hobbyist!</p>
+        <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/97jPDLIswtM"
+        title="YouTube video Player" frameborder="0" allow="acclerometer;autoplay' 
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+        </iframe>
+
+
+<Br><Br>
+
+    <div>
+    <h2>Things I have made with my sewing machine</h2>
+        <ul>
+            <li>Pillow Cases</li>
+            <li>Mission dresses</li>
+                <ol>
+                    <li>Brown with Ruffle Sleeve</li>
+                    <li>Black with V-neck</li>
+                </ol>
+            <li>Makeup Bag</li>
+            <li>Swimsuit</li>
+            <li>White Blouse</li>
+            <li>Corduroy Skirt</li>
+            <li>Blankets</li>
+            
+        </ul>
+    </div>
+
+    <img src="assets/img/Brown dress.png" alt="Brown dress I made" width="300">
+<br><br><br><Br><Br><Br><Br>
+
+    <a href="HelpfromAI.html">🎴 I can make you Laugh!</a>
+    <a href="index.html">Take a look at my Resume!</a>
+        
+
+<a href="#Top">Go to Top</a>
+</body>
+</html>
